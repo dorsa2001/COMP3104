@@ -1,0 +1,180 @@
+<project version="4">
+  <component name="ExternalSystemProjectTracker"><![CDATA[{
+  "projectData": {
+    "GRADLE": {
+      "C:/Users/dorsa/Assignment": {
+        "settingsTracker": {
+          "isDirty": false,
+          "settingsFiles": {
+            "C:/Users/dorsa/Assignment/gradle/wrapper/gradle-wrapper.properties": 2931574364,
+            "C:/Users/dorsa/Assignment/build.gradle.kts": 4257516165,
+            "C:/Users/dorsa/Assignment/settings.gradle.kts": 3660436798
+          }
+        }
+      },
+      "C:/Users/dorsa/Assignment/ApprovalService": {
+        "settingsTracker": {
+          "isDirty": false,
+          "settingsFiles": {
+            "C:/Users/dorsa/Assignment/ApprovalService/gradle/wrapper/gradle-wrapper.properties": 2931574364,
+            "C:/Users/dorsa/Assignment/ApprovalService/build.gradle.kts": 1706323514,
+            "C:/Users/dorsa/Assignment/ApprovalService/settings.gradle.kts": 3405818656
+          }
+        }
+      },
+      "C:/Users/dorsa/Assignment/BookingService": {
+        "settingsTracker": {
+          "isDirty": false,
+          "settingsFiles": {
+            "C:/Users/dorsa/Assignment/BookingService/gradle/wrapper/gradle-wrapper.properties": 2931574364,
+            "C:/Users/dorsa/Assignment/BookingService/build.gradle.kts": 2852351169,
+            "C:/Users/dorsa/Assignment/BookingService/settings.gradle.kts": 2229329325
+          }
+        }
+      },
+      "C:/Users/dorsa/Assignment/EventService": {
+        "settingsTracker": {
+          "isDirty": false,
+          "settingsFiles": {
+            "C:/Users/dorsa/Assignment/EventService/gradle/wrapper/gradle-wrapper.properties": 2931574364,
+            "C:/Users/dorsa/Assignment/EventService/build.gradle.kts": 1706323514,
+            "C:/Users/dorsa/Assignment/EventService/settings.gradle.kts": 667804583
+          }
+        }
+      },
+      "C:/Users/dorsa/Assignment/RoomService": {
+        "settingsTracker": {
+          "isDirty": false,
+          "settingsFiles": {
+            "C:/Users/dorsa/Assignment/RoomService/gradle/wrapper/gradle-wrapper.properties": 2931574364,
+            "C:/Users/dorsa/Assignment/RoomService/build.gradle.kts": 1205917365,
+            "C:/Users/dorsa/Assignment/RoomService/settings.gradle.kts": 1123308879
+          }
+        }
+      },
+      "C:/Users/dorsa/Assignment/UserService": {
+        "settingsTracker": {
+          "isDirty": false,
+          "settingsFiles": {
+            "C:/Users/dorsa/Assignment/UserService/gradle/wrapper/gradle-wrapper.properties": 2931574364,
+            "C:/Users/dorsa/Assignment/UserService/build.gradle.kts": 467094270,
+            "C:/Users/dorsa/Assignment/UserService/settings.gradle.kts": 44003723
+          }
+        }
+      }
+    }
+  }
+}]]></component>
+  <component name="GradleLocalSettings">
+    <option name="myGradleHomes">
+      <map>
+        <entry key="$PROJECT_DIR$/ApprovalService" value="C:\Users\dorsa\.gradle\wrapper\dists\gradle-8.10.2-bin\a04bxjujx95o3nb99gddekhwo\gradle-8.10.2" />
+        <entry key="$PROJECT_DIR$/EventService" value="C:\Users\dorsa\.gradle\wrapper\dists\gradle-8.10.2-bin\a04bxjujx95o3nb99gddekhwo\gradle-8.10.2" />
+        <entry key="$PROJECT_DIR$/UserService" value="C:\Users\dorsa\.gradle\wrapper\dists\gradle-8.10.2-bin\a04bxjujx95o3nb99gddekhwo\gradle-8.10.2" />
+      </map>
+    </option>
+    <option name="myGradleVersions">
+      <map>
+        <entry key="$PROJECT_DIR$/ApprovalService" value="8.10.2" />
+        <entry key="$PROJECT_DIR$/EventService" value="8.10.2" />
+        <entry key="$PROJECT_DIR$/UserService" value="8.10.2" />
+      </map>
+    </option>
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="ApprovalService" />
+              <option name="path" value="$PROJECT_DIR$/ApprovalService" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="ApprovalService" />
+                <option name="path" value="$PROJECT_DIR$/ApprovalService" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="UserService" />
+              <option name="path" value="$PROJECT_DIR$/UserService" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="UserService" />
+                <option name="path" value="$PROJECT_DIR$/UserService" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
+        <entry key="$PROJECT_DIR$/ApprovalService" value="RE_IMPORT" />
+        <entry key="$PROJECT_DIR$/BookingService" value="RE_IMPORT" />
+        <entry key="$PROJECT_DIR$/EventService" value="RE_IMPORT" />
+        <entry key="$PROJECT_DIR$/RoomService" value="RE_IMPORT" />
+        <entry key="$PROJECT_DIR$/UserService" value="RE_IMPORT" />
+      </map>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProcessedFilesStorage">
+    <timestamps>
+      <entry key="2448eccc96eb00433e100a4cc0621693" value="1731005631815" />
+      <entry key="50a107548f46878e2eb129c2dfb7e716" value="1731005210292" />
+      <entry key="518ca0bf3ec30b23f769f20dbae6c614" value="1731005251392" />
+      <entry key="5791480b1b81cfe4c66011ed7f47a469" value="1731005558742" />
+      <entry key="5ade09f32f05f906dd60c3fb7ef67c81" value="1731005153740" />
+      <entry key="759d0463c31d6573079618b813725da0" value="1731005350040" />
+      <entry key="7816fb258d9791a3d91680f7652b4d60" value="1731007968796" />
+      <entry key="7f34739cb1130efc03173a80031d6149" value="1731003896236" />
+      <entry key="a20c0f2d48122b61ede88ad02ce3e051" value="1731005347681" />
+      <entry key="a4d1241b3da34e252c8bb622438cbf80" value="1731007663248" />
+      <entry key="b305b62ab973474c489f6787afe76897" value="1731005519592" />
+      <entry key="b407b4985d3cf99ea55b5606d519fc89" value="1731005176022" />
+      <entry key="c9c59e1b47f0bebaefaeb99680e65a54" value="1731006122321" />
+      <entry key="e0d4f585edfa99505f3b423af3843372" value="1731005316216" />
+      <entry key="e302788d6a5b87a97f5c49e7f50546ab" value="1731005345630" />
+      <entry key="ec00a5c2be5eab828626ae948716f22e" value="1731005225133" />
+      <entry key="fca1e24d013c7a7476dc83687be07cc9" value="1731007721657" />
+    </timestamps>
+  </component>
+  <component name="RestoreUpdateTree">{}</component>
+  <component name="VcsDirectoryMappingCache">
+    <option name="roots">
+      <set>
+        <option value="$PROJECT_DIR$" />
+      </set>
+    </option>
+    <option name="vcsName" value="Git" />
+  </component>
+  <component name="sourceFolderManager">
+    <sourceFolders>
+      <SourceFolderModelState>
+        <option name="moduleName" value="UserService.test" />
+        <option name="type" value="TEST_RESOURCE" />
+        <option name="url" value="file://$PROJECT_DIR$/UserService/src/test/resources" />
+      </SourceFolderModelState>
+      <SourceFolderModelState>
+        <option name="moduleName" value="ApprovalService.test" />
+        <option name="type" value="TEST_RESOURCE" />
+        <option name="url" value="file://$PROJECT_DIR$/ApprovalService/src/test/resources" />
+      </SourceFolderModelState>
+    </sourceFolders>
+  </component>
+</project>
